@@ -10,7 +10,7 @@ Currently I am working as a software developer engineer at Fred Hutchinson as a 
 
 🧑‍🔬 I graduated college in 2014 with a degree in molecular biology and immdediately started working as a lab technician. I found that lab work itself isn't what drives me (taking pH's all day just wasn't doing it).
 
-💻 After many discussions with my younger sister, who was getting her degree in CS at the time, I decided to go back to school! I completed the [University of Oregon's Bioinformatics and Genomics Graduate Internship Program](https://internship.uoregon.edu/bioinformatics) in 2016. I interend in Paul Kulesa's laboratory at The Stower's Institute in Kansas City, Missouri.
+💻 After many discussions with my younger sister, who was getting her degree in CS at the time, I decided to go back to school! I completed the [University of Oregon's Bioinformatics and Genomics Graduate Internship Program](https://internship.uoregon.edu/bioinformatics) in 2016. I interned in Paul Kulesa's laboratory at The Stower's Institute in Kansas City, Missouri.
 
 🧬 I completed my internship and took a job in the Kulesa lab. I continued my work analyzing bulk and single-cell RNA-sequencing data and preparing figures for manuscripts. I am on [3 published papers](https://scholar.google.com/citations?user=_xjC6NsAAAAJ&hl=en) from these projects.
 
